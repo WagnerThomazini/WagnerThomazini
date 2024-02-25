@@ -1,6 +1,6 @@
 ### Olá, sou Wagner Thomazini! 👋
 
-Sou um estudante de programação e apaixonado por tecnologia.
+Sou estudante de programação e apaixonado por tecnologia.
 
 
 
